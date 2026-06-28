@@ -116,7 +116,6 @@ class Game {
                 }
             }
 
-            // --- Tour ennemi ---
             if ($this->enemy->isAlive()) {
                 $dist2 = $this->board->distance(
                     $this->enemy->getX(), $this->enemy->getY(),
