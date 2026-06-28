@@ -8,7 +8,7 @@ Projet semestriel — Tech Web Avancé (L3 GLBD)
 
 1. Copier le dossier dans `C:\xampp\htdocs\mini-rpg\`
 2. Démarrer **Apache** dans XAMPP
-3. Ouvrir `http://localhost/miniRPG-tech_web-UPEF/index.php`
+3. Ouvrir `http://localhost/tech-web-avance-UPEF-L3GLBD/index.php`
 
 ---
 
