@@ -43,7 +43,7 @@ mini-rpg/
 
 ---
 
-## Mécaniques
+## Mécaniques bonus
 
 - Le héros **fuit vers la potion** si ses HP tombent à 50%
 - L'ennemi entre en **RAGE** (ATK +3) si ses HP passent sous 10
