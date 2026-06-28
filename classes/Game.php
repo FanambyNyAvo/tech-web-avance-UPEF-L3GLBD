@@ -43,7 +43,6 @@ class Game {
     public function simulate(): array {
 
         $this->snapshots[] = $this->buildSnapshot([], 'intro');
-        // BOUCLE DE COMBAT
         while ($this->hero->isAlive() && $this->enemy->isAlive()) {
             $this->turn++;
             $events = [];
